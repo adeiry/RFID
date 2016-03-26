@@ -5,26 +5,37 @@ Projet smb214 2016
 
 Plan du projet:
 
-1- Histoire de la technologie RFID
+1- Introduction
 
-2- Définition de RFID
+2- Historique 
 
-3- Les différentes utilisations de RFID
+3- Définition du RFID
 
-4- La différence entre RFID, Barcode et NFC
+4- Fonctionnement d'un système RFID 
 
-5- Les élements nécessaires pour construire un système RFID
-	5.1. Un transpondeur (étiquette ou tag)
-	5.2. Une antenne 
-	5.3. Un lecteur 
-	5.4. Un logiciel
+5- Les différentes utilisations de RFID
+
+6- La différence entre RFID, code-barres et NFC
+
+7- Les équipements de base pour un système RFID 
+
+	7.1- L'étiquette électronique
 	
-6- Les caractéristiques d'un système RFID
-	6.1. La fréquence de communication
-	6.2. La taille mémoire, l'énergie et autres
+	7.2- Le lecteur RFID
+	
+	7.3- L'ordinateur
 
-7- La programmation d'un système RFID
+8- Les caractéristique d'un système RFID
 
-8- Un petit démo (s'il est possible de chercher les composants du système RFID)
+	8.1- Gamme de fréquence 
+	
+	8.2- Source d'énergie (tags passifs, tags actifs, tags semi-passifs)
+	
+9- La programmation d'un système RFID
 
+	9.1- Protocole de communication (TTF et RTF)
+	
+	9.2- Les outils de programmation
+	
+	9.3- Code java (exemple)
 
