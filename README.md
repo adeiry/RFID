@@ -1,5 +1,9 @@
 # RFID
-Projet smb214 2016
+Projet: smb214 2016
+Nom: Alaa Walid DAIRY
+No dossier: 1352t
+
+![Alaa DAIRY](https://avatars3.githubusercontent.com/u/9880387?v=3&s=460 "Alaa Walid DAIRY")
 
 =====================
 
