@@ -1,5 +1,5 @@
 # RFID
-SMB214 2016
+SMB214-2016
 
 Projet: RFID
 
@@ -7,12 +7,14 @@ Nom: Alaa Walid DAIRY
 
 No dossier: 1352t
 
+=====================
 
-![Alaa DAIRY](https://avatars3.githubusercontent.com/u/9880387?v=3&s=180 "Alaa Walid DAIRY")
+<h1>Introduction</h1>
+Durant cette présentation, j'ai parlé de la technologie RFID en donnant un coup d'oeil sur l'historique et les différentes utilisations de cette technologie. Ensuite j'ai comparé le RFID avec le code-barres et le NFC en précisant les modifications ajoutés à cette technolohie par rapport à ces derniers. De plus, j'ai présenté les outils nécessaires pour la création d'un système RFID fonctionnel en citant les caractérisiques qu'il faut prend en compte lors de la création d'un tel système. Et enfin, j'ai parlé rapidement sur les protocoles de communication et les outils de programmation pour un système RFID.
 
 =====================
 
-Plan du projet:
+<h1>Plan du projet:</h1>
 
 1- Introduction
 
